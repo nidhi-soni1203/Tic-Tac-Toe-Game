@@ -17,3 +17,10 @@ A classic Tic Tac Toe game developed using HTML, CSS, and JavaScript. Players ca
 
 ## Purpose
 This project was created to improve JavaScript programming skills by implementing game logic, DOM manipulation, and user interactions.
+
+
+## Project Screenshot
+![Tic Tac Toe Game](tic.png)
+
+## Author
+Nidhi Soni
